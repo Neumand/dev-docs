@@ -1,23 +1,31 @@
-# Nextra Docs Template 
+# Personal Wiki for Software and Web Development
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+This is a personal wiki created with [Nextra](https://nextra.site/) to document and organize knowledge related to software development and web development.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+## Purpose
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+The main purpose of this wiki is to help me continuously learn and retain information in these fields. By documenting what I learn, I can refer back to it later and build on it, avoiding the need to re-learn things I've already studied. Additionally, the act of organizing and writing down knowledge can help me better understand and remember it.
 
-## Quick Start
+## Contents
 
-Click the button to clone this repository and deploy it on Vercel:
+The wiki covers a variety of topics related to software and web development, including:
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+- Programming languages
+- Frameworks
+- Front-end technologies
+- Back-end technologies
+- Development tools
+- Web development concepts such as responsive design, SEO, and web performance
+- Best practices such as testing, debugging, and documentation
 
-## Local Development
+## Usage
 
-First, run `pnpm i` to install the dependencies.
+The wiki is organized into pages and sub-pages, with a table of contents to help navigate between them. Each page covers a specific topic, with links to related pages and external resources where applicable. I aim to update the wiki regularly as I learn new things, and to revisit and revise existing pages as needed.
 
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
+## Contribution
+
+While this is a personal wiki, I welcome feedback and suggestions from others in the software and web development community. If you have a suggestion for a topic I should cover or a correction to make, feel free to create an issue or submit a pull request on [GitHub](https://github.com/neumand/dev-docs). However, please note that this is a personal project and I may not be able to accept all contributions.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. Feel free to reuse and modify this project for your own personal use, but please do not distribute or sell it without permission.
